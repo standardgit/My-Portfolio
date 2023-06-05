@@ -18,7 +18,7 @@ const Intro = () => {
                 <div className="i-name">
                     <span>Hello my Name is</span>
                     <span>Oparinde Abefe</span>
-                    <span>I and a full stack developer who is currently undergoing the ALX training, profecient learner.</span>
+                    <span>I and a full stack developer who is currently undergoing self training, I am also a profecient learner.</span>
                 </div>
                 <button className="button i-button">Hire me</button>
                 <div className="i-icons">
